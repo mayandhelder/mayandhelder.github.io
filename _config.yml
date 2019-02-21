@@ -11,7 +11,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "www.mayandhelder.com" # the base hostname & protocol for your site
 
 social:
-  github: https://github.com/markcerqueira/wedding-site
+  github: https://github.com/mayandhelder/mayandhelder.github.io
 
 # Build settings
 markdown: kramdown
