@@ -1,5 +1,5 @@
 # Site settings
-title: "May+Helder"
+title: "May+Hélder"
 description: |
     Dipolog City, Philippines
 
@@ -12,6 +12,7 @@ url: "www.mayandhelder.com" # the base hostname & protocol for your site
 
 social:
   instagram: https://instagram.com/mayandhelder/
+  facebook: https://facebook.com/mayandhelder/  
 
 # Build settings
 markdown: kramdown
