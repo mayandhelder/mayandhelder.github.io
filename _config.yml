@@ -1,14 +1,14 @@
 # Site settings
-title: "Tina + Mark"
+title: "May + Helder"
 description: |
-    San Ramon, California
+    Dipolog City, Philippines
 
-    November 11, 2018
+    March 28, 2019
 owner: Mark Cerqueira
 first_published: 2017
-email: mark@mark.gg
+email: helder@helmo.ai
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "www.tinaandmark.com" # the base hostname & protocol for your site
+url: "www.mayandhelder.com" # the base hostname & protocol for your site
 
 social:
   github: https://github.com/markcerqueira/wedding-site
